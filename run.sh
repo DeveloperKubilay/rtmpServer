@@ -1,5 +1,6 @@
 #sudo nano /usr/local/nginx/conf/nginx.conf
 #sudo nano /usr/local/nginx/html/index.html
+#sudo /usr/local/nginx/sbin/nginx
 #!/bin/bash
 
 NGINX_BIN="/usr/local/nginx/sbin/nginx"
